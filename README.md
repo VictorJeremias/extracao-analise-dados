@@ -49,7 +49,7 @@ Neste projeto, utilizamos dados extraídos de uma planilha **Excel** (`Base de D
 4. **Rodar o código**:
    - Execute o código Python:
      ```
-     python seu_arquivo.py
+     extracao-analise.py
      ```
 
 ## 📊 Análises Realizadas
