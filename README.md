@@ -21,7 +21,7 @@ Neste projeto, utilizamos dados extraídos de uma planilha **Excel** (`Base de D
 1. **Clonar o repositório**:
    - Abra seu terminal e execute:
      ```
-     git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
+     git clone https://github.com/VictorJeremias/extracao-analise-dados.git
      ```
 
 2. **Instalar as dependências**:
